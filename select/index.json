@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "暴走ロリィタホリック",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-26T00:32:52.786456Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暴走ロリィタホリック",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_暴走ロリィタホリック_かいりきベア.txt"
+    }
+  ]
+}
